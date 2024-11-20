@@ -1,4 +1,4 @@
-Taskfyer
+Taskfyer- The complete task management application.
 
 You can find the working demo here: https://taskfyer.vercel.app/
 
