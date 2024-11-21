@@ -8,9 +8,9 @@ This project is a Full Stack MERN application that provides a comprehensive solu
 
 ## Features:
 
-User Authentication: Secure login and registration system.
+User Authentication: Secure login and new user registration system. 
 
-Task Management: Create, update, delete, and view tasks.
+Task Management: Create, update, delete, and view tasks and sort them based on priority.
 
 Data Persistence: Tasks are stored persistently using MongoDB.
 
