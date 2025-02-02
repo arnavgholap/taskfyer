@@ -1,4 +1,4 @@
-## **TaskFyer**
+## **Taskfyer**
 
 Welcome to Taskfyer, The complete task management application. TaskFyer is designed to help users manage their tasks seamlessly, providing features that cater to both personal and professional task management needs. With an intuitive interface and powerful functionality, TaskFyer ensures that you stay organized and productive.
 
